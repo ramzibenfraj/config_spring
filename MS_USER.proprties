@@ -1,4 +1,4 @@
-feign.url = http://localhost:9091
+feign.url = http://localhost:9092
 spring.datasource.url = jdbc:mysql://localhost:3306/GL1SB1?createDatabaseIfNotExist=true&serverTimezone=UTC
 spring.datasource.username = root
 spring.datasource.password =
